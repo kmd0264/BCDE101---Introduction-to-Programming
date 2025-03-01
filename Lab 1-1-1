@@ -9,10 +9,35 @@ print('BCDE101')
 # ---------------------------------------------
 
 # Lab 1-1-1 Question 2
-# Kenji Decena
-# kmd0264@arastudent.ac.nz
 
 first_name = input('Please enter your first name: ')
 print('Hi')
 print(first_name)
 print('Pleased to meet you.')
+
+# ---------------------------------------------
+
+# Lab 1-1-1 Question 3
+
+first_name = input ('Please enter your first name: ')
+last_name = input ('Please enter your last name: ')
+print ('Hi')
+print (first_name)
+print (last_name)
+print ('Pleased to meet you.')
+
+# ---------------------------------------------
+
+# Lab 1-1-1 Question 4
+
+first_integer = input ('Please enter an integer: ')
+print ('Hi, you entered')
+print (first_integer)
+
+# ---------------------------------------------
+
+# Lab 1-1-1 Question 5
+
+first_name = input ('Please enter your first name: ')
+first_age = input (f'Hi {first_name}. Please enter your age: ')
+print (f'I see you are {first_age} years old {first_name}.')
