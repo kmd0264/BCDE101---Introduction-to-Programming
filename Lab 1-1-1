@@ -2,6 +2,17 @@
 # Kenji Decena
 # kmd0264@arastudent.ac.nz
 
-print ('Hi.')
-print ('Welcome to our programming course')
-print ('BCDE101')
+print('Hi.')
+print('Welcome to our programming course')
+print('BCDE101')
+
+# ---------------------------------------------
+
+# Lab 1-1-1 Question 2
+# Kenji Decena
+# kmd0264@arastudent.ac.nz
+
+first_name = input('Please enter your first name: ')
+print('Hi')
+print(first_name)
+print('Pleased to meet you.')
