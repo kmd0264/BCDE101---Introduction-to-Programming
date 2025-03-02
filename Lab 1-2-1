@@ -45,3 +45,11 @@ total = first_number + second_number
 print(total)
 
 # ---------------------------------------------
+
+# Lab 1-2-1 Question 7
+
+# Completed the variable
+first_number = (1)
+second_number = (2)
+total = (first_number + second_number)
+print(total)
