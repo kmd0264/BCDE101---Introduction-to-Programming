@@ -33,3 +33,15 @@ print (message)
 
 course = ('BCDE101')
 print(course)
+
+# ---------------------------------------------
+
+# Lab 1-2-1 Question 6
+
+# Switched the variable name and value order
+input = first_number = 1
+input = second_number = 2
+total = first_number + second_number
+print(total)
+
+# ---------------------------------------------
