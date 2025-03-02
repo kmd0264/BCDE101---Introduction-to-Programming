@@ -1,0 +1,35 @@
+# Lab 1-2-1 Question 1
+# Kenji Decena
+# kmd0264@arastudent.ac.nz
+
+course_code = ('BCDE101')
+
+print(course_code)
+
+# ---------------------------------------------
+
+# Lab 1-2-1 Question 2
+
+message = ('Welcome to BCDE101.')
+print (message)
+
+# ---------------------------------------------
+
+# Lab 1-2-1 Question 3
+
+message = ('Let us get started on BCDE101.')
+print(message)
+
+# ---------------------------------------------
+
+# Lab 1-2-1 Question 4
+
+message = ('We are writing code in Python for BCDE101.')
+print (message)
+
+# ---------------------------------------------
+
+# Lab 1-2-1 Question 5
+
+course = ('BCDE101')
+print(course)
