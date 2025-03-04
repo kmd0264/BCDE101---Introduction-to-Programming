@@ -74,3 +74,8 @@ print (course_code)
 
 # ---------------------------------------------
  
+# Lab 1-2-1 Question 10
+
+# Replaced the class with course
+course_code = ('BCDE101')
+print (course_code)
