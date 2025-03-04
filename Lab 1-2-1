@@ -65,3 +65,12 @@ Product = (first_number * second_number)
 print(Product)
 
 # ---------------------------------------------
+
+# Lab 1-2-1 Question 9
+
+# Corrected the spelling 
+course_code = ('BCDE101')
+print (course_code)
+
+# ---------------------------------------------
+ 
